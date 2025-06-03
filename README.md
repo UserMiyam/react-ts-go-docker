@@ -1,3 +1,2 @@
 # react-ts-go-docker
-template
-
+座席表
